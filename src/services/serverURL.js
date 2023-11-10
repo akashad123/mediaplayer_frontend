@@ -1,1 +1,1 @@
-export const serverURL = "http://localhost:7000"   /* Base url */
+export const serverURL = "https://media-player-by3u.onrender.com"   /* Base url */
